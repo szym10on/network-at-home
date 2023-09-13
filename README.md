@@ -52,7 +52,7 @@ That modified GG45 connector is a proprietary component, though, and while the b
 
 Cat 7a offers one of the highest-specification Ethernet cables you can buy, but it’s not widely available and offers only a few supporting networking hardware options. The 7a standard was designed to support 40 Gigabit Ethernet connections up to 50 meters and — just like Cat 7, but with improvement to the overall bandwidth — more than 50%. This improvement may be useful in some instances, but Cat 7a cables are far more expensive than any other option and its lack of industry support is something you can avoid by using Cat 8 cables.
 
-- Cat 8:<br>:
+- Cat 8:<br>
 This standard promises a maximum frequency of 2,000MHz and speeds of up to 40Gbps at 30 meters. That high frequency also requires shielding, meaning you’ll never find unshielded Cat 8 cables. Even more, Cat 8 supports two connectors. Thus it only allows for three connected cables with a combined length of 30 meters. Cat 8 cables cost more than other options, but they have become more affordable in recent years. You can find options for a 10-foot Cat 8 under $15.<br>
 
 Cat 8 also is the only cable to meet the latest IEEE standards (the aforementioned 40Gbps and 2,000MHz frequency), which is one reason it’s a great choice for future-proofing, despite the significantly higher costs. As a bonus, it also skips the connector mess of Cat 7.<br>
