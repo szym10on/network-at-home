@@ -90,3 +90,26 @@ Hubs are similar to routers, I will list things to look for when buying one:
 Things like network sockets, plugs, or network tools are all almost identical. But check if everything is well made or if there is not damage done to it.
 
 ---
+
+## How to do particular things
+
+1. Laying cables:<br>
+
+- Calculate distances then cut your cables. Keep in mind to save more then needed just in case.
+
+- Use conduits in walls to make it more aesthetically.
+
+- Use pipe/conduit holders to attach conduit/cables on the attic.
+
+- Save more cable (10-15cm on each end for sockets and plugs)
+
+2. Making ethernet sockets and plugs:
+ 
+- [How to make ethernet socket](https://www.youtube.com/watch?v=IHxTbtAEd-E)
+
+- [How to make ethernet plug](https://www.youtube.com/watch?v=NWhoJp8UQpo)
+
+3. Test your netowrk cables:
+
+- You can use a previously purchased tester or connect your network and test it on your PC.<br>
+[How to test ethernet cables with tester](https://www.youtube.com/watch?v=y3DmOPrmBio)
