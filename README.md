@@ -24,3 +24,12 @@ Costs may depend on country you live in.<br>
 All together: $71.5 without router cost.
 
 ---
+
+## Types and categories of things used for a network.
+
+1. Ethernet cables:<br>
+
+If you want, you can just choose the latest Cat number (8 at the moment) for future-proofing and not worry about the rest. Or, you could take a look at what each Category is suitable for in our handy list below:
+
+- Cat 1 to 5:<br>
+Skipping these categories because they are very old, technically not even official Ethernet standards, and they have been discontinued or are too slow to be usable.
