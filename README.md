@@ -10,11 +10,11 @@ _The guide covers single family house with router in living room, two rooms with
 
 **`Planning everything before doing is a great idea to not mess anything up.`**
 
-1. Full plan that i drew when I needed to see what will be necessary:
+<b>1. Full plan that i drew when I needed to see what will be necessary:</b>
 
 ![networkplan](https://github.com/szym10on/owning-a-server/assets/123908381/0a0141c5-0f76-4a5e-ae88-f2bedd172f6b)<br>
 
-2. List of things that I ordered(or bought in local shop):<br>
+<b>2. List of things that I ordered(or bought in local shop):</b><br>
 
 ➤ 35 meteres of ethernet cable. Bought more then needed just in case ~$0.3/m, 35 * 0.3 = $10.5<br>
 ➤ 1x router sponsored from our internet provider, ussually cost of ~$25-$200<br>
@@ -31,7 +31,7 @@ All together: $71.5 without router cost.
 
 **`There are a lot of type of cables, routers, hubs or other things that the network is made of.`**
 
-1. Ethernet cables:<br>
+<b>1. Ethernet cables:</b><br>
 
 _If you want, you can just choose the latest Cat number (8 at the moment) for future-proofing and not worry about the rest. Or, you could take a look at what each Category is suitable for in our handy list below:_
 
@@ -55,7 +55,7 @@ This standard promises a maximum frequency of 2,000MHz and speeds of up to 40Gbp
 
 All information borrowed from the [Digital Trends](https://www.digitaltrends.com/computing/different-types-of-ethernet-cables-explained/) website.
 
-2. Routers:<br>
+<b>2. Routers:</b><br>
 
 _I will grant information on what to look for when buying a network router for your home:_
 
@@ -69,7 +69,7 @@ _I will grant information on what to look for when buying a network router for y
 
 - Security Features: Ensure the router has robust security features, including WPA3 encryption, a firewall, and the ability to set up a guest network. Look for routers that receive firmware updates to address security vulnerabilities.
 
-3. Hubs:<br>
+<b>3. Hubs:</b><br>
 
 _Hubs are similar to routers, I will list things to look for when buying one:_
 
@@ -81,7 +81,7 @@ _Hubs are similar to routers, I will list things to look for when buying one:_
 
 - Cabling: Consider the type of Ethernet cables you plan to use. Ensure that the hub has the appropriate connectors (e.g., RJ45) and supports the cable category (e.g., Cat 5e, Cat 6, Cat 6a) you intend to use.
 
-4. Other things:<br>
+<b>4. Other things:</b><br>
 
 Things like network sockets, plugs, or network tools are all almost identical. But check if everything is well made or if there is not damage done to it.
 
@@ -91,7 +91,7 @@ Things like network sockets, plugs, or network tools are all almost identical. B
 
 **`Making your network haven't been easier.`**
 
-1. Laying cables:<br>
+<b>1. Laying cables:</b><br>
 
 - Calculate distances then cut your cables. Keep in mind to save more then needed just in case.
 
@@ -101,13 +101,13 @@ Things like network sockets, plugs, or network tools are all almost identical. B
 
 - Save more cable (10-15cm on each end for sockets and plugs)
 
-2. Making ethernet sockets and plugs:
+<b>2. Making ethernet sockets and plugs:</b>
  
 - [How to make ethernet socket](https://www.youtube.com/watch?v=IHxTbtAEd-E)
 
 - [How to make ethernet plug](https://www.youtube.com/watch?v=NWhoJp8UQpo)
 
-3. Test your netowrk cables:
+<b>3. Test your netowrk cables:</b>
 
 - You can use a previously purchased tester or connect your network and test it on your PC.<br>
 [How to test ethernet cables with tester](https://www.youtube.com/watch?v=y3DmOPrmBio)
