@@ -14,13 +14,13 @@ _The guide covers single family house with router in living room, two rooms with
 
 2. List of things that I ordered(or bought in local shop):<br>
 
-➤ 35 meteres of ethernet cable. Bought more then needed just in case (~$0.3/m, 35 * 0.3 = $10.5)<br>
+➤ 35 meteres of ethernet cable. Bought more then needed just in case ~$0.3/m, 35 * 0.3 = $10.5)<br>
 ➤ 1x router (sponsored from our internet provider, ussually cost of ~$25-$200)<br>
 ➤ 1x 8 slot hub for connecting all the cables together ($~25)<br>
 ➤ 3x network sockets installed in a wall (~$5, 3 * 5 = $15)<br>
 ➤ 9x network plugs. Bought pack of 20 just in case (~$0.3/each, 20 * 0.3 = $6)<br>
 ➤ 1x network tool kit with tester, stripping tool and crimping tool (~$15)<br>
-Costs may depend on country you live in.
+Costs may depend on country you live in.<br>
 All together: $71.5 without router cost.
 
 ---
