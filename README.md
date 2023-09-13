@@ -8,6 +8,8 @@ _The guide covers single family house with router in living room, two rooms with
 
 ## Plan of the network at home.
 
+**`Planning everything before doing is a great idea to not mess anything up.`**
+
 1. Full plan that i drew when I needed to see what will be necessary:
 
 ![networkplan](https://github.com/szym10on/owning-a-server/assets/123908381/0a0141c5-0f76-4a5e-ae88-f2bedd172f6b)<br>
@@ -27,9 +29,11 @@ All together: $71.5 without router cost.
 
 ## Types and categories of things used for a network.
 
+**`There are a lot of type of cables, routers, hubs or other things that the network is made of.`**
+
 1. Ethernet cables:<br>
 
-If you want, you can just choose the latest Cat number (8 at the moment) for future-proofing and not worry about the rest. Or, you could take a look at what each Category is suitable for in our handy list below:
+_If you want, you can just choose the latest Cat number (8 at the moment) for future-proofing and not worry about the rest. Or, you could take a look at what each Category is suitable for in our handy list below:_
 
 - Cat 1 to 5:<br>
 Skipping these categories because they are very old, technically not even official Ethernet standards, and they have been discontinued or are too slow to be usable.
@@ -61,7 +65,7 @@ All information borrowed from the [Digital Trends](https://www.digitaltrends.com
 
 2. Routers:<br>
 
-I will grant information on what to look for when buying a network router for your home:
+_I will grant information on what to look for when buying a network router for your home:_
 
 - Wireless Standard (Wi-Fi Version): Check the wireless standard (also known as Wi-Fi version) supported by the router. The most common standards are 802.11n (Wi-Fi 4), 802.11ac (Wi-Fi 5), and 802.11ax (Wi-Fi 6). Newer standards offer faster speeds and better performance. Consider a Wi-Fi 6 router if you have devices that support this standard for optimal performance.
 
@@ -75,7 +79,7 @@ I will grant information on what to look for when buying a network router for yo
 
 3. Hubs:<br>
 
-Hubs are similar to routers, I will list things to look for when buying one:
+_Hubs are similar to routers, I will list things to look for when buying one:_
 
 - Port Count: Determine how many devices you need to connect to the hub. Network hubs come in various port configurations, such as 4, 8, 16, or more ports. Choose a hub with enough ports for your current and future devices.
 
@@ -92,6 +96,8 @@ Things like network sockets, plugs, or network tools are all almost identical. B
 ---
 
 ## How to do particular things
+
+**`Making your network haven't been easier.`**
 
 1. Laying cables:<br>
 
